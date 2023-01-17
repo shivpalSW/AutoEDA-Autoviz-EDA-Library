@@ -26,6 +26,10 @@ How to install it?
 ```
 pip install autoviz
 ```
+
+Official Site:
+
+https://pypi.org/project/autoviz/0.0.6/
 -----------------------------------------------------------------------------------------
 How to import it?
 ```
